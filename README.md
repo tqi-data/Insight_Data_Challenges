@@ -3,6 +3,6 @@ The repository contains three complete data challenged I finished at Insight dat
 
 Data challenge 1: employee retention
 
-Data challenge 2: price test
+Data challenge 2: pricing test
 
 Data challenge 3: customer conversion (imbalanced classification)
